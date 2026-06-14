@@ -1,6 +1,4 @@
-### Sablekit
-
-Independent maker building niche products for the world.
+<img width="2560" height="640" alt="sablekit-banner" src="https://github.com/user-attachments/assets/254dfc0c-eebd-486c-b5cf-4df1b82822a1" />
 
 #### What I'm building
 
